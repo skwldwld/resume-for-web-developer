@@ -15,8 +15,8 @@ Online Résumé(CV) template for web developer using HTML5 and CSS3.
 ```html
 <header>
   <h1 class="heading-container">Résumé</h1>
-  <h2 class="name-container">your name</h2>
-  <h3 class="job-container">your role</h3>
+  <h2 class="name-container">Yeji Kim</h2>
+  <h3 class="job-container">student</h3>
   <div class="profile-picture">
     <img src="./assets/img/profile.png" alt="">
   </div>
